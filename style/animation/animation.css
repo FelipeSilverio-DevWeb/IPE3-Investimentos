@@ -1,0 +1,11 @@
+.hidden {
+  opacity: 0;
+  filter: blur(15px);
+  transition: all 0.5s;
+}
+
+.show {
+  opacity: 1;
+  transition: all 1s;
+  filter: blur(0px);
+}/*# sourceMappingURL=animation.css.map */

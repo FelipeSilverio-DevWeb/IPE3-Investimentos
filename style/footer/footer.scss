@@ -1,0 +1,25 @@
+footer{
+    width: 100%;
+    max-width: 1920px;
+    background-color: #e2e2e2;
+    padding: 20px 0;
+
+    #footerDescition{
+        margin: 0 auto;
+        width: 60%;
+        display: flex;
+        justify-content: space-between;
+        div{
+            
+
+            h4{
+                font-weight: 500;
+                text-transform: uppercase;margin-bottom: 15px;
+            }
+
+            p{
+                font-weight: 300;
+            }
+        }
+    }
+}
