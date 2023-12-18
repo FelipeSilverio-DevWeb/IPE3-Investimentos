@@ -1,0 +1,132 @@
+@media only screen and (max-width: 940px) {
+  #mainWhoBackground1 {
+    width: 95% !important;
+    height: auto !important;
+  }
+  #mainWhoBackground2 {
+    display: none !important;
+  }
+  #mainDifferentialInfo div:nth-child(1) {
+    display: none !important;
+  }
+  #mainDifferentialInfo div:nth-child(2) {
+    width: 95% !important;
+  }
+  #mainTeam {
+    width: 100%;
+    height: auto;
+  }
+  #mainService {
+    height: 500px !important;
+  }
+  #mainDeposition {
+    height: 500px !important;
+  }
+}
+@media only screen and (max-width: 800px) {
+  * h1 {
+    margin: 15px auto !important;
+  }
+  nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+  nav #headerMenu {
+    height: 80px;
+  }
+  nav #headerMenu ul {
+    display: none !important;
+  }
+  header #headerInfo {
+    width: 90%;
+    margin: 40px auto;
+    padding: 20px 30px !important;
+  }
+  header #headerInfo h1 {
+    margin-top: 0px !important;
+  }
+  header h1 {
+    font-size: 2em !important;
+  }
+  header nav {
+    width: 100%;
+    height: 100px;
+  }
+  header nav #headerMenu {
+    display: none !important;
+  }
+  header nav #headerLogo {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  #mainWho {
+    width: 100%;
+    height: auto !important;
+  }
+  #mainWho #mainWhoBackground1 {
+    width: 100% !important;
+  }
+  #mainWho #mainWhoBackground1 p {
+    width: 90%;
+    margin: 20px auto !important;
+  }
+  #mainWho #mainWhoBackground1 h1 {
+    font-size: 2em !important;
+  }
+  #mainCardInfoCardDescri p {
+    width: 100% !important;
+  }
+  #mainCardInfoCardDescri img {
+    display: none;
+  }
+  #mainTeamCard:nth-child(3) {
+    margin-bottom: 30px;
+  }
+  #mainTeamInfo #mainTeamInfoCard {
+    width: 90%;
+  }
+  #mainTeamInfo #mainTeamInfoCard #mainTeamInfoCardTitle {
+    width: 100%;
+  }
+  #mainTeamInfo #mainTeamInfoCard #mainTeamInfoCardTitle h2 {
+    font-size: 1.8em;
+    text-align: center;
+  }
+  #mainDifferential h1 {
+    font-size: 2em;
+  }
+  #mainDifferential p {
+    text-align: justify !important;
+    font-size: 1em !important;
+  }
+  #mainService {
+    height: 50% !important;
+  }
+  #mainService h1 {
+    font-size: 2.2em;
+    margin-bottom: 0px !important;
+  }
+  #mainService div {
+    width: 100% !important;
+    height: 300px !important;
+  }
+  #mainDeposition {
+    height: 50% !important;
+  }
+  #mainDeposition h1 {
+    font-size: 2.3em;
+    margin-bottom: 0px !important;
+  }
+  #mainDeposition div {
+    width: 100% !important;
+    height: 300px !important;
+    margin: 0 !important;
+  }
+  footer {
+    margin-top: 0 !important;
+    width: 100%;
+    font-size: 0.5em;
+  }
+}/*# sourceMappingURL=responsive.css.map */
