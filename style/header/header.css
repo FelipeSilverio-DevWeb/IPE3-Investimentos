@@ -6,7 +6,7 @@ header {
 header #headerBg {
   width: 100%;
   height: 100vh;
-  background-image: url(/img/bk.jpg);
+  background-image: url(../img/bk.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -21,7 +21,7 @@ header nav {
 }
 header nav #headerLogo {
   width: 20%;
-  background-image: url(/img/logo.png);
+  background-image: url(../img/logo.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;

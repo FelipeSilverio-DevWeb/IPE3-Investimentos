@@ -203,7 +203,7 @@ main {
   margin-bottom: 20px;
 }
 #mainService div {
-  background-image: url(/img/service.png);
+  background-image: url(../img/service.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -227,7 +227,7 @@ main {
 #mainDeposition #mainDepositionInfo {
   width: 90%;
   height: 80vh;
-  background-image: url(/img/Deposition.png);
+  background-image: url(../img/Deposition.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
